@@ -1,0 +1,6742 @@
+{
+    "classes": [
+    "PERSON",
+    "LOC",
+    "GPE",
+    "NORP",
+    "TIME",
+    "CARDINAL",
+    "ORDINAL",
+    "PRODUCT",
+    "ORG",
+    "LANGUAGE",
+    "DATE",
+    "QUANTITY",
+    "MONEY",
+    "PERCENT",
+    "EVENT"
+  ],
+    "annotations": [
+        [
+            "Review",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "CONCLUSION: Very filling meals.",
+            {
+                "entities": [
+                    [
+                        17,
+                        30,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The block was amazing.",
+            {
+                "entities": [
+                    [
+                        14,
+                        21,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "This hole in the wall has great Mexican street tacos, and friendly staff.",
+            {
+                "entities": [
+                    [
+                        32,
+                        52,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "- Really, really good rice, all the time.",
+            {
+                "entities": [
+                    [
+                        17,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        22,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My friend loved the salmon tartar.",
+            {
+                "entities": [
+                    [
+                        10,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        20,
+                        33,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'd rather eat airline food, seriously.",
+            {
+                "entities": [
+                    [
+                        15,
+                        27,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I think food should have flavor and texture and both were lacking.",
+            {
+                "entities": [
+                    [
+                        25,
+                        31,
+                        "PRODUCT"
+                    ],
+                    [
+                        36,
+                        43,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If there were zero stars I would give it zero stars.",
+            {
+                "entities": [
+                    [
+                        14,
+                        24,
+                        "CARDINAL"
+                    ],
+                    [
+                        41,
+                        51,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Service is perfect and the family atmosphere is nice to see.",
+            {
+                "entities": [
+                    [
+                        0,
+                        18,
+                        "PERSON"
+                    ],
+                    [
+                        27,
+                        44,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",
+            {
+                "entities": [
+                    [
+                        18,
+                        28,
+                        "QUANTITY"
+                    ],
+                    [
+                        33,
+                        41,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I love the decor with the Chinese calligraphy wall paper.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Waitress was good though!",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",
+            {
+                "entities": [
+                    [
+                        47,
+                        54,
+                        "QUANTITY"
+                    ],
+                    [
+                        55,
+                        72,
+                        "PRODUCT"
+                    ],
+                    [
+                        76,
+                        95,
+                        "PRODUCT"
+                    ],
+                    [
+                        99,
+                        115,
+                        "PRODUCT"
+                    ],
+                    [
+                        125,
+                        138,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service was poor and thats being nice.",
+            {
+                "entities": [
+                    [
+                        16,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The best place to go for a tasty bowl of Pho!",
+            {
+                "entities": [
+                    [
+                        27,
+                        32,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        44,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Oh this is such a thing of beauty, this restaurant.",
+            {
+                "entities": [
+                    [
+                        27,
+                        33,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.",
+            {
+                "entities": [
+                    [
+                        54,
+                        77,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",
+            {
+                "entities": [
+                    [
+                        14,
+                        30,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "walked in and the place smelled like an old grease trap and only 2 others there eating.",
+            {
+                "entities": [
+                    [
+                        60,
+                        66,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "I had the opportunity today to sample your amazing pizzas!",
+            {
+                "entities": [
+                    [
+                        43,
+                        50,
+                        "PRODUCT"
+                    ],
+                    [
+                        51,
+                        57,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Wow... Loved this place.",
+            {
+                "entities": [
+                    [
+                        7,
+                        12,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.",
+            {
+                "entities": [
+                    [
+                        0,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        17,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        34,
+                        51,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "And considering the two of us left there very full and happy for about $20, you just can't go wrong.",
+            {
+                "entities": [
+                    [
+                        20,
+                        29,
+                        "QUANTITY"
+                    ],
+                    [
+                        41,
+                        50,
+                        "NORP"
+                    ],
+                    [
+                        55,
+                        60,
+                        "NORP"
+                    ],
+                    [
+                        71,
+                        74,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hands down my favorite Italian restaurant!",
+            {
+                "entities": [
+                    [
+                        23,
+                        41,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Go To Place for Gyros.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The kids play area is NASTY!",
+            {
+                "entities": [
+                    [
+                        22,
+                        27,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",
+            {
+                "entities": [
+                    [
+                        53,
+                        57,
+                        "PRODUCT"
+                    ],
+                    [
+                        58,
+                        63,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!",
+            {
+                "entities": [
+                    [
+                        44,
+                        50,
+                        "PRODUCT"
+                    ],
+                    [
+                        97,
+                        102,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "There is nothing authentic about this place.",
+            {
+                "entities": [
+                    [
+                        9,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worst service to boot, but that is the least of their worries.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",
+            {
+                "entities": [
+                    [
+                        50,
+                        57,
+                        "QUANTITY"
+                    ],
+                    [
+                        62,
+                        82,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Host staff were, for lack of a better word, BITCHES!",
+            {
+                "entities": [
+                    [
+                        44,
+                        51,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It lacked flavor, seemed undercooked, and dry.",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        45,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "the potatoes were great and so was the biscuit.",
+            {
+                "entities": [
+                    [
+                        4,
+                        12,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        46,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "This place deserves one star and 90% has to do with the food.",
+            {
+                "entities": [
+                    [
+                        20,
+                        28,
+                        "CARDINAL"
+                    ],
+                    [
+                        33,
+                        36,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",
+            {
+                "entities": [
+                    [
+                        12,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        31,
+                        36,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The only thing I wasn't too crazy about was their guacamole as I don't like it pur\u00e9ed.",
+            {
+                "entities": [
+                    [
+                        50,
+                        59,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Crust is not good.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "There was hardly any meat.",
+            {
+                "entities": [
+                    [
+                        21,
+                        25,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",
+            {
+                "entities": [
+                    [
+                        58,
+                        79,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ordered burger rare came in we'll done.",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end.",
+            {
+                "entities": [
+                    [
+                        106,
+                        118,
+                        "PERSON"
+                    ],
+                    [
+                        123,
+                        131,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The last 3 times I had lunch here has been bad.",
+            {
+                "entities": [
+                    [
+                        9,
+                        16,
+                        "QUANTITY"
+                    ],
+                    [
+                        43,
+                        46,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Everyone is treated equally special.",
+            {
+                "entities": [
+                    [
+                        28,
+                        35,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The best place in Vegas for breakfast (just check out a Sat, or Sun.",
+            {
+                "entities": [
+                    [
+                        18,
+                        23,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",
+            {
+                "entities": [
+                    [
+                        109,
+                        121,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My wife had the Lobster Bisque soup which was lukewarm.",
+            {
+                "entities": [
+                    [
+                        16,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        46,
+                        54,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.",
+            {
+                "entities": [
+                    [
+                        44,
+                        49,
+                        "TIME"
+                    ],
+                    [
+                        55,
+                        59,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "There was a warm feeling with the service and I felt like their guest for a special treat.",
+            {
+                "entities": [
+                    [
+                        12,
+                        24,
+                        "NORP"
+                    ],
+                    [
+                        76,
+                        89,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "- They never brought a salad we asked for.",
+            {
+                "entities": [
+                    [
+                        23,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "A FLY was in my apple juice.. A FLY!!!!!!!!",
+            {
+                "entities": [
+                    [
+                        16,
+                        29,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",
+            {
+                "entities": [
+                    [
+                        13,
+                        19,
+                        "TIME"
+                    ],
+                    [
+                        33,
+                        42,
+                        "PRODUCT"
+                    ],
+                    [
+                        72,
+                        86,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Definitely a turn off for me & i doubt I'll be back unless someone else is buying.",
+            {
+                "entities": [
+                    [
+                        13,
+                        21,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The flair bartenders are absolutely amazing!",
+            {
+                "entities": [
+                    [
+                        4,
+                        20,
+                        "PERSON"
+                    ],
+                    [
+                        25,
+                        43,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Not tasty and the texture was just nasty.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "PRODUCT"
+                    ],
+                    [
+                        35,
+                        40,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food was outstanding and the prices were very reasonable.",
+            {
+                "entities": [
+                    [
+                        13,
+                        24,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Delicious and I will absolutely be back!",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",
+            {
+                "entities": [
+                    [
+                        13,
+                        25,
+                        "NORP"
+                    ],
+                    [
+                        70,
+                        77,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "I LOVED it!",
+            {
+                "entities": [
+                    [
+                        2,
+                        7,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If you want a sandwich just go to any Firehouse!!!!!",
+            {
+                "entities": [
+                    [
+                        14,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        38,
+                        47,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have eaten here multiple times, and each time the food was delicious.",
+            {
+                "entities": [
+                    [
+                        18,
+                        32,
+                        "QUANTITY"
+                    ],
+                    [
+                        61,
+                        70,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now I am getting angry and I want my damn pho.",
+            {
+                "entities": [
+                    [
+                        17,
+                        22,
+                        "NORP"
+                    ],
+                    [
+                        42,
+                        45,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Any grandmother can make a roasted chicken better than this one.",
+            {
+                "entities": [
+                    [
+                        27,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It was either too cold, not enough flavor or just bad.",
+            {
+                "entities": [
+                    [
+                        14,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        24,
+                        41,
+                        "PRODUCT"
+                    ],
+                    [
+                        45,
+                        53,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",
+            {
+                "entities": [
+                    [
+                        14,
+                        24,
+                        "MONEY"
+                    ],
+                    [
+                        26,
+                        40,
+                        "PRODUCT"
+                    ],
+                    [
+                        52,
+                        56,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Same evening, him and I are both drastically sick.",
+            {
+                "entities": [
+                    [
+                        33,
+                        49,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Very bad Experience!",
+            {
+                "entities": [
+                    [
+                        5,
+                        19,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My girlfriend's veal was very bad.",
+            {
+                "entities": [
+                    [
+                        16,
+                        20,
+                        "PRODUCT"
+                    ],
+                    [
+                        25,
+                        33,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable.",
+            {
+                "entities": [
+                    [
+                        32,
+                        41,
+                        "PRODUCT"
+                    ],
+                    [
+                        75,
+                        80,
+                        "PRODUCT"
+                    ],
+                    [
+                        90,
+                        105,
+                        "PERSON"
+                    ],
+                    [
+                        120,
+                        130,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My fella got the huevos rancheros and they didn't look too appealing.",
+            {
+                "entities": [
+                    [
+                        17,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        43,
+                        68,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Veggitarian platter is out of this world!",
+            {
+                "entities": [
+                    [
+                        4,
+                        23,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        null,
+        null,
+        [
+            "We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.",
+            {
+                "entities": [
+                    [
+                        15,
+                        24,
+                        "PRODUCT"
+                    ],
+                    [
+                        36,
+                        40,
+                        "PRODUCT"
+                    ],
+                    [
+                        45,
+                        51,
+                        "PRODUCT"
+                    ],
+                    [
+                        73,
+                        82,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",
+            {
+                "entities": [
+                    [
+                        8,
+                        12,
+                        "PRODUCT"
+                    ],
+                    [
+                        13,
+                        16,
+                        "PRODUCT"
+                    ],
+                    [
+                        32,
+                        50,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.",
+            {
+                "entities": [
+                    [
+                        16,
+                        23,
+                        "PERSON"
+                    ],
+                    [
+                        88,
+                        98,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Their menu is diverse, and reasonably priced.",
+            {
+                "entities": [
+                    [
+                        14,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        44,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        null,
+        [
+            "We were sat right on time and our server from the get go was FANTASTIC!",
+            {
+                "entities": [
+                    [
+                        61,
+                        70,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Dessert: Panna Cotta was amazing.",
+            {
+                "entities": [
+                    [
+                        0,
+                        20,
+                        "PRODUCT"
+                    ],
+                    [
+                        25,
+                        32,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",
+            {
+                "entities": [
+                    [
+                        24,
+                        34,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "They have a really nice atmosphere.",
+            {
+                "entities": [
+                    [
+                        19,
+                        34,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "However, there was so much garlic in the fondue, it was barely edible.",
+            {
+                "entities": [
+                    [
+                        41,
+                        47,
+                        "PRODUCT"
+                    ],
+                    [
+                        56,
+                        69,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What did bother me, was the slow service.",
+            {
+                "entities": [
+                    [
+                        9,
+                        15,
+                        "NORP"
+                    ],
+                    [
+                        28,
+                        40,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "An extensive menu provides lots of options for breakfast.",
+            {
+                "entities": [
+                    [
+                        3,
+                        12,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The plantains were the worst I've ever tasted.",
+            {
+                "entities": [
+                    [
+                        4,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        23,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great food and awesome service!",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "PRODUCT"
+                    ],
+                    [
+                        15,
+                        30,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Seriously killer hot chai latte.",
+            {
+                "entities": [
+                    [
+                        10,
+                        16,
+                        "PRODUCT"
+                    ],
+                    [
+                        17,
+                        31,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.",
+            {
+                "entities": [
+                    [
+                        88,
+                        107,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",
+            {
+                "entities": [
+                    [
+                        25,
+                        34,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Ample portions and good prices.",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "QUANTITY"
+                    ],
+                    [
+                        19,
+                        30,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!",
+            {
+                "entities": [
+                    [
+                        15,
+                        29,
+                        "PERSON"
+                    ],
+                    [
+                        60,
+                        74,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!",
+            {
+                "entities": [
+                    [
+                        14,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        32,
+                        50,
+                        "NORP"
+                    ],
+                    [
+                        79,
+                        85,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food sucked, which we expected but it sucked more than we could have imagined.",
+            {
+                "entities": [
+                    [
+                        9,
+                        15,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",
+            {
+                "entities": [
+                    [
+                        63,
+                        66,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service was a bit lacking.",
+            {
+                "entities": [
+                    [
+                        22,
+                        29,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The food was excellent and service was very good.",
+            {
+                "entities": [
+                    [
+                        13,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        48,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        51,
+                        "QUANTITY"
+                    ],
+                    [
+                        57,
+                        66,
+                        "LOC"
+                    ],
+                    [
+                        85,
+                        93,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Thus far, have only visited twice and the food was absolutely delicious each time.",
+            {
+                "entities": [
+                    [
+                        51,
+                        71,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "This place is pretty good, nice little vibe in the restaurant.",
+            {
+                "entities": [
+                    [
+                        14,
+                        25,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        43,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The folks at Otto always make us feel so welcome and special.",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        60,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Their rotating beers on tap is also a highlight of this place.",
+            {
+                "entities": [
+                    [
+                        6,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Went for lunch - service was slow.",
+            {
+                "entities": [
+                    [
+                        17,
+                        33,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "OMG, the food was delicioso!",
+            {
+                "entities": [
+                    [
+                        18,
+                        27,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now this dish was quite flavourful.",
+            {
+                "entities": [
+                    [
+                        18,
+                        34,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I had a seriously solid breakfast here.",
+            {
+                "entities": [
+                    [
+                        18,
+                        23,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food was delicious, our bartender was attentive and personable AND we got a great deal!",
+            {
+                "entities": [
+                    [
+                        13,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        51,
+                        "PERSON"
+                    ],
+                    [
+                        56,
+                        66,
+                        "PERSON"
+                    ],
+                    [
+                        80,
+                        90,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Nice ambiance.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Poor service, the waiter made me feel like I was stupid every time he came to the table.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "PERSON"
+                    ],
+                    [
+                        49,
+                        55,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My gyro was basically lettuce only.",
+            {
+                "entities": [
+                    [
+                        3,
+                        7,
+                        "PRODUCT"
+                    ],
+                    [
+                        22,
+                        29,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "2 Thumbs Up!!",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It's too bad the food is so damn generic.",
+            {
+                "entities": [
+                    [
+                        28,
+                        40,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "That's right....the red velvet cake.....ohhh this stuff is so good.",
+            {
+                "entities": [
+                    [
+                        20,
+                        35,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Overpriced for what you are getting.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Food is way overpriced and portions are fucking small.",
+            {
+                "entities": [
+                    [
+                        12,
+                        22,
+                        "MONEY"
+                    ],
+                    [
+                        48,
+                        53,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The vegetables are so fresh and the sauce feels like authentic Thai.",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "PRODUCT"
+                    ],
+                    [
+                        22,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        36,
+                        41,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        62,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "But the service was beyond bad.",
+            {
+                "entities": [
+                    [
+                        20,
+                        30,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",
+            {
+                "entities": [
+                    [
+                        5,
+                        9,
+                        "NORP"
+                    ],
+                    [
+                        10,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        53,
+                        "MONEY"
+                    ],
+                    [
+                        55,
+                        63,
+                        "PRODUCT"
+                    ],
+                    [
+                        68,
+                        82,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "OMG I felt like I had never eaten Thai food until this dish.",
+            {
+                "entities": [
+                    [
+                        34,
+                        43,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "WAAAAAAyyyyyyyyyy over rated is all I am saying.",
+            {
+                "entities": [
+                    [
+                        18,
+                        28,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Level 5 spicy was perfect, where spice didn't over-whelm the soup.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "QUANTITY"
+                    ],
+                    [
+                        8,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        18,
+                        25,
+                        "PRODUCT"
+                    ],
+                    [
+                        61,
+                        65,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cow tongue and cheek tacos are amazing.",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "PRODUCT"
+                    ],
+                    [
+                        19,
+                        30,
+                        "PRODUCT"
+                    ],
+                    [
+                        35,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Service is quick and friendly.",
+            {
+                "entities": [
+                    [
+                        11,
+                        16,
+                        "PERSON"
+                    ],
+                    [
+                        21,
+                        29,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worst food/service I've had in a while.",
+            {
+                "entities": [
+                    [
+                        0,
+                        18,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service was great, even the manager came and helped with our table.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "Some highlights : Great quality nigiri here!",
+            {
+                "entities": [
+                    [
+                        18,
+                        31,
+                        "PRODUCT"
+                    ],
+                    [
+                        32,
+                        38,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My sashimi was poor quality being soggy and tasteless.",
+            {
+                "entities": [
+                    [
+                        3,
+                        10,
+                        "PRODUCT"
+                    ],
+                    [
+                        15,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        34,
+                        39,
+                        "PRODUCT"
+                    ],
+                    [
+                        44,
+                        53,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I was VERY disappointed!!",
+            {
+                "entities": [
+                    [
+                        6,
+                        23,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Also, the fries are without a doubt the worst fries I've ever had.",
+            {
+                "entities": [
+                    [
+                        10,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        40,
+                        51,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I love their fries and their beans.",
+            {
+                "entities": [
+                    [
+                        2,
+                        6,
+                        "NORP"
+                    ],
+                    [
+                        13,
+                        18,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        34,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We were promptly greeted and seated.",
+            {
+                "entities": [
+                    [
+                        8,
+                        24,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Good value, great food, great service.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "MONEY"
+                    ],
+                    [
+                        12,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        24,
+                        37,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",
+            {
+                "entities": [
+                    [
+                        93,
+                        98,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A fantastic neighborhood gem !!!",
+            {
+                "entities": [
+                    [
+                        2,
+                        11,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.",
+            {
+                "entities": [
+                    [
+                        25,
+                        39,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Han Nan Chicken was also very tasty.",
+            {
+                "entities": [
+                    [
+                        4,
+                        19,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        39,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Con: spotty service.",
+            {
+                "entities": [
+                    [
+                        5,
+                        19,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.",
+            {
+                "entities": [
+                    [
+                        20,
+                        37,
+                        "PRODUCT"
+                    ],
+                    [
+                        43,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        59,
+                        64,
+                        "PRODUCT"
+                    ],
+                    [
+                        65,
+                        79,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Strike 2, who wants to be rushed.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place is hands-down one of the best places to eat in the Phoenix metro area.",
+            {
+                "entities": [
+                    [
+                        36,
+                        47,
+                        "PRODUCT"
+                    ],
+                    [
+                        62,
+                        80,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service was outshining & I definitely recommend the Halibut.",
+            {
+                "entities": [
+                    [
+                        4,
+                        26,
+                        "PERSON"
+                    ],
+                    [
+                        56,
+                        63,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.",
+            {
+                "entities": [
+                    [
+                        28,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        72,
+                        103,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Not to mention the combination of pears, almonds and bacon is a big winner!",
+            {
+                "entities": [
+                    [
+                        34,
+                        39,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        48,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        61,
+                        "PRODUCT"
+                    ],
+                    [
+                        64,
+                        74,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Today is the second time I've been to their lunch buffet and it was pretty good.",
+            {
+                "entities": [
+                    [
+                        68,
+                        79,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Waiter was a jerk.",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "And service was super friendly.",
+            {
+                "entities": [
+                    [
+                        16,
+                        30,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Best service and food ever, Maria our server was so good and friendly she made our day.",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "PERSON"
+                    ],
+                    [
+                        52,
+                        69,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.",
+            {
+                "entities": [
+                    [
+                        22,
+                        27,
+                        "QUANTITY"
+                    ],
+                    [
+                        50,
+                        56,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "He was terrible!",
+            {
+                "entities": [
+                    [
+                        7,
+                        15,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Boy was that sucker dry!!.",
+            {
+                "entities": [
+                    [
+                        13,
+                        23,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Good beer & drink selection and good food selection.",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "PRODUCT"
+                    ],
+                    [
+                        5,
+                        9,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The restaurant atmosphere was exquisite.",
+            {
+                "entities": [
+                    [
+                        30,
+                        39,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Bland and flavorless is a good way of describing the barely tepid meat.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PRODUCT"
+                    ],
+                    [
+                        10,
+                        20,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        65,
+                        "PRODUCT"
+                    ],
+                    [
+                        66,
+                        70,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The nachos are a MUST HAVE!",
+            {
+                "entities": [
+                    [
+                        4,
+                        10,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Eclectic selection.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!",
+            {
+                "entities": [
+                    [
+                        11,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        28,
+                        44,
+                        "PRODUCT"
+                    ],
+                    [
+                        61,
+                        68,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In an interesting part of town, this place is amazing.",
+            {
+                "entities": [
+                    [
+                        46,
+                        53,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My friend did not like his Bloody Mary.",
+            {
+                "entities": [
+                    [
+                        27,
+                        38,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This is an unbelievable BARGAIN!",
+            {
+                "entities": [
+                    [
+                        24,
+                        31,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "- the food is rich so order accordingly.",
+            {
+                "entities": [
+                    [
+                        14,
+                        18,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.",
+            {
+                "entities": [
+                    [
+                        10,
+                        25,
+                        "PRODUCT"
+                    ],
+                    [
+                        38,
+                        47,
+                        "PRODUCT"
+                    ],
+                    [
+                        66,
+                        77,
+                        "PRODUCT"
+                    ],
+                    [
+                        83,
+                        99,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The chicken dishes are OK, the beef is like shoe leather.",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        31,
+                        35,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Also there are combos like a burger, fries, and beer for 23 which is a decent deal.",
+            {
+                "entities": [
+                    [
+                        29,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        37,
+                        42,
+                        "PRODUCT"
+                    ],
+                    [
+                        48,
+                        56,
+                        "PRODUCT"
+                    ],
+                    [
+                        57,
+                        59,
+                        "QUANTITY"
+                    ],
+                    [
+                        71,
+                        82,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I've had better atmosphere.",
+            {
+                "entities": [
+                    [
+                        9,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "We literally sat there for 20 minutes with no one asking to take our order.",
+            {
+                "entities": [
+                    [
+                        27,
+                        37,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.",
+            {
+                "entities": [
+                    [
+                        24,
+                        30,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        45,
+                        "PRODUCT"
+                    ],
+                    [
+                        46,
+                        53,
+                        "PRODUCT"
+                    ],
+                    [
+                        61,
+                        67,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "For a self proclaimed coffee cafe, I was wildly disappointed.",
+            {
+                "entities": [
+                    [
+                        22,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        60,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "What a great double cheeseburger!",
+            {
+                "entities": [
+                    [
+                        13,
+                        32,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reasonably priced also!",
+            {
+                "entities": [
+                    [
+                        0,
+                        17,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I went to Bachi Burger on a friend's recommendation and was not disappointed.",
+            {
+                "entities": [
+                    [
+                        10,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        60,
+                        76,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",
+            {
+                "entities": [
+                    [
+                        94,
+                        97,
+                        "PRODUCT"
+                    ],
+                    [
+                        102,
+                        110,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The place was fairly clean but the food simply wasn't worth it.",
+            {
+                "entities": [
+                    [
+                        14,
+                        26,
+                        "PRODUCT"
+                    ],
+                    [
+                        40,
+                        59,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        null,
+        [
+            "Overall I wasn't very impressed with Noca.",
+            {
+                "entities": [
+                    [
+                        37,
+                        41,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Come hungry, leave happy and stuffed!",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "NORP"
+                    ],
+                    [
+                        29,
+                        36,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",
+            {
+                "entities": [
+                    [
+                        18,
+                        23,
+                        "PRODUCT"
+                    ],
+                    [
+                        71,
+                        82,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The place was not clean and the food oh so stale!",
+            {
+                "entities": [
+                    [
+                        43,
+                        48,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste.",
+            {
+                "entities": [
+                    [
+                        20,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        32,
+                        45,
+                        "PRODUCT"
+                    ],
+                    [
+                        68,
+                        71,
+                        "PRODUCT"
+                    ],
+                    [
+                        103,
+                        113,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In fact I'm going to round up to 4 stars, just because she was so awesome.",
+            {
+                "entities": [
+                    [
+                        33,
+                        40,
+                        "CARDINAL"
+                    ],
+                    [
+                        66,
+                        73,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "i felt insulted and disrespected, how could you talk and judge another human being like that?",
+            {
+                "entities": [
+                    [
+                        7,
+                        15,
+                        "NORP"
+                    ],
+                    [
+                        20,
+                        32,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It was delicious!!!",
+            {
+                "entities": [
+                    [
+                        7,
+                        16,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bartender was also nice.",
+            {
+                "entities": [
+                    [
+                        23,
+                        27,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I ate there twice on my last visit, and especially enjoyed the salmon salad.",
+            {
+                "entities": [
+                    [
+                        12,
+                        17,
+                        "QUANTITY"
+                    ],
+                    [
+                        51,
+                        58,
+                        "NORP"
+                    ],
+                    [
+                        63,
+                        75,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cocktails are all handmade and delicious.",
+            {
+                "entities": [
+                    [
+                        4,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        35,
+                        44,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It kept getting worse and worse so now I'm officially done.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.",
+            {
+                "entities": [
+                    [
+                        13,
+                        24,
+                        "QUANTITY"
+                    ],
+                    [
+                        30,
+                        54,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I really enjoyed Crema Caf\u00e9 before they expanded. I even told friends they had the BEST breakfast.",
+            {
+                "entities": [
+                    [
+                        17,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        83,
+                        87,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We walked away stuffed and happy about our first Vegas buffet experience.",
+            {
+                "entities": [
+                    [
+                        15,
+                        22,
+                        "NORP"
+                    ],
+                    [
+                        27,
+                        32,
+                        "NORP"
+                    ],
+                    [
+                        43,
+                        48,
+                        "QUANTITY"
+                    ],
+                    [
+                        49,
+                        54,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "As always the evening was wonderful and the food delicious!",
+            {
+                "entities": [
+                    [
+                        49,
+                        58,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",
+            {
+                "entities": [
+                    [
+                        17,
+                        27,
+                        "PERSON"
+                    ],
+                    [
+                        70,
+                        78,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In summary, this was a largely disappointing dining experience.",
+            {
+                "entities": [
+                    [
+                        23,
+                        44,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Would come back again if I had a sushi craving while in Vegas.",
+            {
+                "entities": [
+                    [
+                        33,
+                        38,
+                        "PRODUCT"
+                    ],
+                    [
+                        56,
+                        61,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",
+            {
+                "entities": [
+                    [
+                        35,
+                        43,
+                        "MONEY"
+                    ],
+                    [
+                        88,
+                        94,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Those burgers were amazing.",
+            {
+                "entities": [
+                    [
+                        6,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        19,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",
+            {
+                "entities": [
+                    [
+                        9,
+                        19,
+                        "PERSON"
+                    ],
+                    [
+                        48,
+                        55,
+                        "PERSON"
+                    ],
+                    [
+                        69,
+                        82,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Im in AZ all the time and now have my new spot.",
+            {
+                "entities": [
+                    [
+                        6,
+                        8,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Awesome service and food.",
+            {
+                "entities": [
+                    [
+                        0,
+                        15,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The service was meh.",
+            {
+                "entities": [
+                    [
+                        16,
+                        19,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "I promise they won't disappoint.",
+            {
+                "entities": [
+                    [
+                        15,
+                        31,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The chains, which I'm no fan of, beat this place easily.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The dining space is tiny, but elegantly decorated and comfortable.",
+            {
+                "entities": [
+                    [
+                        20,
+                        24,
+                        "PRODUCT"
+                    ],
+                    [
+                        30,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        54,
+                        65,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "PRODUCT"
+                    ],
+                    [
+                        14,
+                        18,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        36,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place is like Chipotle, but BETTER.",
+            {
+                "entities": [
+                    [
+                        19,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        33,
+                        39,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I found this place by accident and I could not be happier.",
+            {
+                "entities": [
+                    [
+                        50,
+                        57,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "At least think to refill my water before I struggle to wave you over for 10 minutes.",
+            {
+                "entities": [
+                    [
+                        73,
+                        83,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I don't have very many words to say about this place, but it does everything pretty well.",
+            {
+                "entities": [
+                    [
+                        77,
+                        88,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I would definitely recommend the wings as well as the pizza.",
+            {
+                "entities": [
+                    [
+                        33,
+                        38,
+                        "PRODUCT"
+                    ],
+                    [
+                        54,
+                        59,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Server did a great job handling our large rowdy table.",
+            {
+                "entities": [
+                    [
+                        13,
+                        31,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I've never been treated so bad.",
+            {
+                "entities": [
+                    [
+                        27,
+                        30,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This wonderful experience made this place a must-stop whenever we are in town again.",
+            {
+                "entities": [
+                    [
+                        5,
+                        25,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In the summer, you can dine in a charming outdoor patio - so very delightful.",
+            {
+                "entities": [
+                    [
+                        61,
+                        76,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cashier was friendly and even brought the food out to me.",
+            {
+                "entities": [
+                    [
+                        16,
+                        24,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Also, I feel like the chips are bought, not made in house.",
+            {
+                "entities": [
+                    [
+                        22,
+                        27,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.",
+            {
+                "entities": [
+                    [
+                        4,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        56,
+                        65,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I want to first say our server was great and we had perfect service.",
+            {
+                "entities": [
+                    [
+                        24,
+                        40,
+                        "PERSON"
+                    ],
+                    [
+                        52,
+                        67,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "She ordered a toasted English muffin that came out untoasted.",
+            {
+                "entities": [
+                    [
+                        14,
+                        36,
+                        "PRODUCT"
+                    ],
+                    [
+                        51,
+                        60,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "She was quite disappointed although some blame needs to be placed at her door.",
+            {
+                "entities": [
+                    [
+                        8,
+                        26,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",
+            {
+                "entities": [
+                    [
+                        50,
+                        63,
+                        "NORP"
+                    ],
+                    [
+                        67,
+                        78,
+                        "PRODUCT"
+                    ],
+                    [
+                        86,
+                        103,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "No one at the table thought the food was above average or worth the wait that we had for it.",
+            {
+                "entities": [
+                    [
+                        41,
+                        54,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We enjoy their pizza and brunch.",
+            {
+                "entities": [
+                    [
+                        3,
+                        8,
+                        "NORP"
+                    ],
+                    [
+                        15,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "RUDE & INCONSIDERATE MANAGEMENT.",
+            {
+                "entities": [
+                    [
+                        0,
+                        20,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        null,
+        [
+            "I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",
+            {
+                "entities": [
+                    [
+                        8,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        23,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        48,
+                        "PRODUCT"
+                    ],
+                    [
+                        78,
+                        93,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.",
+            {
+                "entities": [
+                    [
+                        68,
+                        73,
+                        "LOC"
+                    ],
+                    [
+                        98,
+                        110,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Things that went wrong: - They burned the saganaki.",
+            {
+                "entities": [
+                    [
+                        31,
+                        37,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        50,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Crostini that came with the salad was stale.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "PRODUCT"
+                    ],
+                    [
+                        28,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        38,
+                        43,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!",
+            {
+                "entities": [
+                    [
+                        63,
+                        71,
+                        "PRODUCT"
+                    ],
+                    [
+                        77,
+                        96,
+                        "PRODUCT"
+                    ],
+                    [
+                        98,
+                        105,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I gave it 5 stars then, and I'm giving it 5 stars now.",
+            {
+                "entities": [
+                    [
+                        10,
+                        17,
+                        "CARDINAL"
+                    ],
+                    [
+                        42,
+                        49,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place is horrible and way overpriced.",
+            {
+                "entities": [
+                    [
+                        14,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        31,
+                        41,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I guess maybe we went on an off night but it was disgraceful.",
+            {
+                "entities": [
+                    [
+                        49,
+                        60,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Highly unprofessional and rude to a loyal patron!",
+            {
+                "entities": [
+                    [
+                        0,
+                        21,
+                        "PERSON"
+                    ],
+                    [
+                        26,
+                        30,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Your servers suck, wait, correction, our server Heimer sucked.",
+            {
+                "entities": [
+                    [
+                        55,
+                        61,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Maybe if they weren't cold they would have been somewhat edible.",
+            {
+                "entities": [
+                    [
+                        22,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "Of all the dishes, the salmon was the best, but all were great.",
+            {
+                "entities": [
+                    [
+                        23,
+                        29,
+                        "PRODUCT"
+                    ],
+                    [
+                        38,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Kind of hard to mess up a steak but they did.",
+            {
+                "entities": [
+                    [
+                        16,
+                        23,
+                        "PRODUCT"
+                    ],
+                    [
+                        26,
+                        31,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It was a bit too sweet, not really spicy enough, and lacked flavor.",
+            {
+                "entities": [
+                    [
+                        13,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        24,
+                        40,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        66,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "These were so good we ordered them twice.",
+            {
+                "entities": [
+                    [
+                        22,
+                        40,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.",
+            {
+                "entities": [
+                    [
+                        36,
+                        62,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We had 7 at our table and the service was pretty fast.",
+            {
+                "entities": [
+                    [
+                        7,
+                        8,
+                        "QUANTITY"
+                    ],
+                    [
+                        42,
+                        53,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The restaurant is very clean and has a family restaurant feel to it.",
+            {
+                "entities": [
+                    [
+                        18,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"It was extremely \"\"crumby\"\" and pretty tasteless.\"",
+            {
+                "entities": [
+                    [
+                        20,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        33,
+                        49,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.",
+            {
+                "entities": [
+                    [
+                        15,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        93,
+                        103,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I like Steiners because it's dark and it feels like a bar.",
+            {
+                "entities": [
+                    [
+                        7,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        54,
+                        57,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",
+            {
+                "entities": [
+                    [
+                        35,
+                        40,
+                        "PRODUCT"
+                    ],
+                    [
+                        82,
+                        94,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",
+            {
+                "entities": [
+                    [
+                        8,
+                        19,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        43,
+                        "PRODUCT"
+                    ],
+                    [
+                        48,
+                        56,
+                        "PRODUCT"
+                    ],
+                    [
+                        66,
+                        70,
+                        "PRODUCT"
+                    ],
+                    [
+                        75,
+                        81,
+                        "PRODUCT"
+                    ],
+                    [
+                        86,
+                        101,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Disappointing experience.",
+            {
+                "entities": [
+                    [
+                        0,
+                        24,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!",
+            {
+                "entities": [
+                    [
+                        20,
+                        34,
+                        "PERSON"
+                    ],
+                    [
+                        39,
+                        46,
+                        "PERSON"
+                    ],
+                    [
+                        88,
+                        102,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "REAL sushi lovers, let's be honest - Yama is not that good.",
+            {
+                "entities": [
+                    [
+                        5,
+                        10,
+                        "PRODUCT"
+                    ],
+                    [
+                        37,
+                        41,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.",
+            {
+                "entities": [
+                    [
+                        79,
+                        93,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"As for the \"\"mains,\"\" also uninspired.\"",
+            {
+                "entities": [
+                    [
+                        28,
+                        38,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "The waitresses are very friendly.",
+            {
+                "entities": [
+                    [
+                        19,
+                        32,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Omelets are to die for!",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",
+            {
+                "entities": [
+                    [
+                        13,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I don't have to be an accountant to know I'm getting screwed!",
+            {
+                "entities": [
+                    [
+                        53,
+                        60,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I got home to see the driest damn wings ever!",
+            {
+                "entities": [
+                    [
+                        22,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        34,
+                        39,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",
+            {
+                "entities": [
+                    [
+                        40,
+                        44,
+                        "PRODUCT"
+                    ],
+                    [
+                        45,
+                        53,
+                        "PRODUCT"
+                    ],
+                    [
+                        77,
+                        83,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The scallop dish is quite appalling for value as well.",
+            {
+                "entities": [
+                    [
+                        4,
+                        16,
+                        "PRODUCT"
+                    ],
+                    [
+                        20,
+                        35,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.",
+            {
+                "entities": [
+                    [
+                        31,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        64,
+                        77,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Gave up trying to eat any of the crust (teeth still sore).",
+            {
+                "entities": [
+                    [
+                        33,
+                        38,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I was so insulted.",
+            {
+                "entities": [
+                    [
+                        9,
+                        17,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It shouldn't take 30 min for pancakes and eggs.",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "TIME"
+                    ],
+                    [
+                        29,
+                        37,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        46,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?",
+            {
+                "entities": [
+                    [
+                        18,
+                        27,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",
+            {
+                "entities": [
+                    [
+                        35,
+                        47,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Thoroughly disappointed!",
+            {
+                "entities": [
+                    [
+                        0,
+                        23,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "You get incredibly fresh fish, prepared with care.",
+            {
+                "entities": [
+                    [
+                        8,
+                        18,
+                        "PRODUCT"
+                    ],
+                    [
+                        19,
+                        29,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "The owner used to work at Nobu, so this place is really similar for half the price.",
+            {
+                "entities": [
+                    [
+                        26,
+                        30,
+                        "PRODUCT"
+                    ],
+                    [
+                        68,
+                        82,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.",
+            {
+                "entities": [
+                    [
+                        103,
+                        120,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Greek dressing was very creamy and flavorful.",
+            {
+                "entities": [
+                    [
+                        4,
+                        18,
+                        "PRODUCT"
+                    ],
+                    [
+                        28,
+                        34,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        48,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I wasn't really impressed with Strip Steak.",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "NORP"
+                    ],
+                    [
+                        31,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I got to enjoy the seafood salad, with a fabulous vinegrette.",
+            {
+                "entities": [
+                    [
+                        9,
+                        14,
+                        "NORP"
+                    ],
+                    [
+                        19,
+                        32,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        50,
+                        60,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"The burger... I got the \"\"Gold Standard\"\" a $17 burger and was kind of disappointed.\"",
+            {
+                "entities": [
+                    [
+                        5,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        42,
+                        "PRODUCT"
+                    ],
+                    [
+                        45,
+                        48,
+                        "MONEY"
+                    ],
+                    [
+                        72,
+                        84,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I left with a stomach ache and felt sick the rest of the day.",
+            {
+                "entities": [
+                    [
+                        31,
+                        40,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He deserves 5 stars.",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The waitress and manager are so friendly.",
+            {
+                "entities": [
+                    [
+                        32,
+                        40,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The classic Maine Lobster Roll was fantastic.",
+            {
+                "entities": [
+                    [
+                        4,
+                        30,
+                        "PRODUCT"
+                    ],
+                    [
+                        35,
+                        44,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",
+            {
+                "entities": [
+                    [
+                        9,
+                        14,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Total brunch fail.",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The menu had so much good stuff on it i could not decide!",
+            {
+                "entities": [
+                    [
+                        21,
+                        31,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.",
+            {
+                "entities": [
+                    [
+                        126,
+                        130,
+                        "NORP"
+                    ],
+                    [
+                        134,
+                        146,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!",
+            {
+                "entities": [
+                    [
+                        49,
+                        62,
+                        "PERSON"
+                    ],
+                    [
+                        89,
+                        97,
+                        "PRODUCT"
+                    ],
+                    [
+                        101,
+                        119,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service here leaves a lot to be desired.",
+            {
+                "entities": [
+                    [
+                        36,
+                        43,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Kids pizza is always a hit too with lots of great side dish options for the kiddos!",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "PRODUCT"
+                    ],
+                    [
+                        14,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place lacked style!!",
+            {
+                "entities": [
+                    [
+                        11,
+                        23,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Friend's pasta -- also bad, he barely touched it.",
+            {
+                "entities": [
+                    [
+                        9,
+                        14,
+                        "PRODUCT"
+                    ],
+                    [
+                        23,
+                        26,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I can take a little bad service but the food sucks.",
+            {
+                "entities": [
+                    [
+                        13,
+                        31,
+                        "PERSON"
+                    ],
+                    [
+                        40,
+                        50,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.",
+            {
+                "entities": [
+                    [
+                        26,
+                        34,
+                        "PRODUCT"
+                    ],
+                    [
+                        52,
+                        60,
+                        "NORP"
+                    ],
+                    [
+                        76,
+                        98,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I swung in to give them a try but was deeply disappointed.",
+            {
+                "entities": [
+                    [
+                        38,
+                        58,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It'll be a regular stop on my trips to Phoenix!",
+            {
+                "entities": [
+                    [
+                        39,
+                        46,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The menu is always changing, food quality is going down & service is extremely slow.",
+            {
+                "entities": [
+                    [
+                        45,
+                        55,
+                        "PRODUCT"
+                    ],
+                    [
+                        69,
+                        83,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.",
+            {
+                "entities": [
+                    [
+                        12,
+                        21,
+                        "PERSON"
+                    ],
+                    [
+                        37,
+                        54,
+                        "MONEY"
+                    ],
+                    [
+                        75,
+                        80,
+                        "LOC"
+                    ],
+                    [
+                        130,
+                        135,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I had a pretty satifying experience.",
+            {
+                "entities": [
+                    [
+                        8,
+                        35,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The owners are super friendly and the staff is courteous.",
+            {
+                "entities": [
+                    [
+                        15,
+                        33,
+                        "PERSON"
+                    ],
+                    [
+                        47,
+                        56,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",
+            {
+                "entities": [
+                    [
+                        84,
+                        93,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Both of the egg rolls were fantastic.",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "QUANTITY"
+                    ],
+                    [
+                        12,
+                        26,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        36,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The fried rice was dry as well.",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "PRODUCT"
+                    ],
+                    [
+                        19,
+                        22,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.",
+            {
+                "entities": [
+                    [
+                        13,
+                        28,
+                        "PERSON"
+                    ],
+                    [
+                        68,
+                        77,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Food was really boring.",
+            {
+                "entities": [
+                    [
+                        9,
+                        22,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Service sucks.",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "So absolutley fantastic.",
+            {
+                "entities": [
+                    [
+                        3,
+                        23,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food, amazing.",
+            {
+                "entities": [
+                    [
+                        10,
+                        17,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The steak and the shrimp are in my opinion the best entrees at GC.",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "PRODUCT"
+                    ],
+                    [
+                        18,
+                        24,
+                        "PRODUCT"
+                    ],
+                    [
+                        47,
+                        51,
+                        "PRODUCT"
+                    ],
+                    [
+                        63,
+                        65,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!",
+            {
+                "entities": [
+                    [
+                        12,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        36,
+                        "PRODUCT"
+                    ],
+                    [
+                        43,
+                        52,
+                        "PRODUCT"
+                    ],
+                    [
+                        55,
+                        59,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "very slow at seating even with reservation.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "too bad cause I know it's family owned, I really wanted to like this place.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        null,
+        [
+            "I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.",
+            {
+                "entities": [
+                    [
+                        14,
+                        26,
+                        "PRODUCT"
+                    ],
+                    [
+                        42,
+                        52,
+                        "TIME"
+                    ],
+                    [
+                        68,
+                        77,
+                        "PRODUCT"
+                    ],
+                    [
+                        78,
+                        83,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Terrible service!",
+            {
+                "entities": [
+                    [
+                        0,
+                        16,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The decor is nice, and the piano music soundtrack is pleasant.",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        62,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "It was awesome.",
+            {
+                "entities": [
+                    [
+                        7,
+                        14,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This is a really fantastic Thai restaurant which is definitely worth a visit.",
+            {
+                "entities": [
+                    [
+                        10,
+                        26,
+                        "PRODUCT"
+                    ],
+                    [
+                        27,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The ambience is wonderful and there is music playing.",
+            {
+                "entities": [
+                    [
+                        16,
+                        25,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Love the margaritas, too!",
+            {
+                "entities": [
+                    [
+                        9,
+                        19,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Very disappointing!!!",
+            {
+                "entities": [
+                    [
+                        0,
+                        18,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Service stinks here!",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Food was delicious!",
+            {
+                "entities": [
+                    [
+                        9,
+                        18,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place receives stars for their APPETIZERS!!!",
+            {
+                "entities": [
+                    [
+                        36,
+                        46,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You won't be disappointed.",
+            {
+                "entities": [
+                    [
+                        4,
+                        26,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.",
+            {
+                "entities": [
+                    [
+                        16,
+                        33,
+                        "PRODUCT"
+                    ],
+                    [
+                        129,
+                        137,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The WORST EXPERIENCE EVER.",
+            {
+                "entities": [
+                    [
+                        4,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Tasted like dirt.",
+            {
+                "entities": [
+                    [
+                        12,
+                        16,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area.",
+            {
+                "entities": [
+                    [
+                        38,
+                        48,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        62,
+                        "PRODUCT"
+                    ],
+                    [
+                        70,
+                        92,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now the pizza itself was good the peanut sauce was very tasty.",
+            {
+                "entities": [
+                    [
+                        8,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        25,
+                        29,
+                        "PRODUCT"
+                    ],
+                    [
+                        34,
+                        46,
+                        "PRODUCT"
+                    ],
+                    [
+                        51,
+                        61,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great Pizza and Salads!",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PRODUCT"
+                    ],
+                    [
+                        6,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        16,
+                        22,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The meat was pretty dry, I had the sliced brisket and pulled pork.",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "PRODUCT"
+                    ],
+                    [
+                        13,
+                        23,
+                        "PRODUCT"
+                    ],
+                    [
+                        35,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        54,
+                        65,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "After one bite, I was hooked.",
+            {
+                "entities": [
+                    [
+                        6,
+                        14,
+                        "QUANTITY"
+                    ],
+                    [
+                        22,
+                        28,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",
+            {
+                "entities": [
+                    [
+                        3,
+                        28,
+                        "QUANTITY"
+                    ],
+                    [
+                        75,
+                        86,
+                        "QUANTITY"
+                    ],
+                    [
+                        97,
+                        106,
+                        "PRODUCT"
+                    ],
+                    [
+                        116,
+                        120,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Overall I was not impressed and would not go back.",
+            {
+                "entities": [
+                    [
+                        14,
+                        27,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "(It wasn't busy either) Also, the building was FREEZING cold.",
+            {
+                "entities": [
+                    [
+                        47,
+                        60,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Service is friendly and inviting.",
+            {
+                "entities": [
+                    [
+                        11,
+                        19,
+                        "PERSON"
+                    ],
+                    [
+                        24,
+                        32,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",
+            {
+                "entities": [
+                    [
+                        89,
+                        106,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This place has a lot of promise but fails to deliver.",
+            {
+                "entities": [
+                    [
+                        36,
+                        52,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "My boyfriend tried the Mediterranean Chicken Salad and fell in love.",
+            {
+                "entities": [
+                    [
+                        23,
+                        54,
+                        "PRODUCT"
+                    ],
+                    [
+                        63,
+                        67,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "NORP"
+                    ],
+                    [
+                        12,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        22,
+                        34,
+                        "PRODUCT"
+                    ],
+                    [
+                        61,
+                        72,
+                        "NORP"
+                    ],
+                    [
+                        78,
+                        87,
+                        "PRODUCT"
+                    ],
+                    [
+                        88,
+                        93,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "I'll take my business dinner dollars elsewhere.",
+            {
+                "entities": [
+                    [
+                        13,
+                        36,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Tried to go here for lunch and it was a madhouse.",
+            {
+                "entities": [
+                    [
+                        40,
+                        48,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.",
+            {
+                "entities": [
+                    [
+                        114,
+                        121,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "PRODUCT"
+                    ],
+                    [
+                        14,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        24,
+                        42,
+                        "PRODUCT"
+                    ],
+                    [
+                        51,
+                        55,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",
+            {
+                "entities": [
+                    [
+                        62,
+                        70,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",
+            {
+                "entities": [
+                    [
+                        29,
+                        57,
+                        "PRODUCT"
+                    ],
+                    [
+                        63,
+                        75,
+                        "PRODUCT"
+                    ],
+                    [
+                        90,
+                        97,
+                        "PRODUCT"
+                    ],
+                    [
+                        99,
+                        105,
+                        "PRODUCT"
+                    ],
+                    [
+                        111,
+                        120,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Furthermore, you can't even find hours of operation on the website!",
+            {
+                "entities": [
+                    [
+                        33,
+                        51,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.",
+            {
+                "entities": [
+                    [
+                        11,
+                        20,
+                        "PRODUCT"
+                    ],
+                    [
+                        30,
+                        40,
+                        "TIME"
+                    ],
+                    [
+                        54,
+                        59,
+                        "PRODUCT"
+                    ],
+                    [
+                        68,
+                        78,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I love the Pho and the spring rolls oh so yummy you have to try.",
+            {
+                "entities": [
+                    [
+                        11,
+                        14,
+                        "PRODUCT"
+                    ],
+                    [
+                        23,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        47,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pretty good beer selection too.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        12,
+                        16,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I as well would've given godfathers zero stars if possible.",
+            {
+                "entities": [
+                    [
+                        25,
+                        35,
+                        "PRODUCT"
+                    ],
+                    [
+                        36,
+                        46,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I could eat their bruschetta all day it is devine.",
+            {
+                "entities": [
+                    [
+                        18,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        43,
+                        49,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A couple of months later, I returned and had an amazing meal.",
+            {
+                "entities": [
+                    [
+                        48,
+                        55,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This isn't a small family restaurant, this is a fine dining establishment.",
+            {
+                "entities": [
+                    [
+                        48,
+                        59,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Nice, spicy and tender.",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "PRODUCT"
+                    ],
+                    [
+                        6,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        16,
+                        22,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Every time I eat here, I see caring teamwork to a professional degree.",
+            {
+                "entities": [
+                    [
+                        29,
+                        44,
+                        "PERSON"
+                    ],
+                    [
+                        50,
+                        69,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.",
+            {
+                "entities": [
+                    [
+                        17,
+                        24,
+                        "PRODUCT"
+                    ],
+                    [
+                        66,
+                        74,
+                        "PRODUCT"
+                    ],
+                    [
+                        79,
+                        86,
+                        "PRODUCT"
+                    ],
+                    [
+                        99,
+                        106,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The food was terrible.",
+            {
+                "entities": [
+                    [
+                        13,
+                        21,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The staff are also very friendly and efficient.",
+            {
+                "entities": [
+                    [
+                        24,
+                        32,
+                        "PERSON"
+                    ],
+                    [
+                        37,
+                        46,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It was pretty gross!",
+            {
+                "entities": [
+                    [
+                        7,
+                        19,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",
+            {
+                "entities": [
+                    [
+                        10,
+                        16,
+                        "QUANTITY"
+                    ],
+                    [
+                        17,
+                        29,
+                        "PRODUCT"
+                    ],
+                    [
+                        38,
+                        44,
+                        "QUANTITY"
+                    ],
+                    [
+                        45,
+                        50,
+                        "PRODUCT"
+                    ],
+                    [
+                        105,
+                        110,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.",
+            {
+                "entities": [
+                    [
+                        31,
+                        44,
+                        "CARDINAL"
+                    ],
+                    [
+                        74,
+                        84,
+                        "TIME"
+                    ],
+                    [
+                        95,
+                        107,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",
+            {
+                "entities": [
+                    [
+                        18,
+                        33,
+                        "PERSON"
+                    ],
+                    [
+                        71,
+                        79,
+                        "PERSON"
+                    ],
+                    [
+                        115,
+                        125,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "These are the nicest restaurant owners I've ever come across.",
+            {
+                "entities": [
+                    [
+                        14,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.",
+            {
+                "entities": [
+                    [
+                        16,
+                        28,
+                        "PERSON"
+                    ],
+                    [
+                        51,
+                        69,
+                        "PERSON"
+                    ],
+                    [
+                        70,
+                        79,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Their steaks are 100% recommended!",
+            {
+                "entities": [
+                    [
+                        6,
+                        12,
+                        "PRODUCT"
+                    ],
+                    [
+                        17,
+                        21,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great food for the price, which is very high quality and house made.",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "PRODUCT"
+                    ],
+                    [
+                        40,
+                        52,
+                        "PRODUCT"
+                    ],
+                    [
+                        57,
+                        67,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Food was average at best.",
+            {
+                "entities": [
+                    [
+                        9,
+                        16,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Our waiter was very attentive, friendly, and informative.",
+            {
+                "entities": [
+                    [
+                        20,
+                        29,
+                        "PERSON"
+                    ],
+                    [
+                        31,
+                        40,
+                        "PERSON"
+                    ],
+                    [
+                        45,
+                        56,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "After 20 minutes wait, I got a table.",
+            {
+                "entities": [
+                    [
+                        6,
+                        16,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.",
+            {
+                "entities": [
+                    [
+                        4,
+                        21,
+                        "PRODUCT"
+                    ],
+                    [
+                        26,
+                        32,
+                        "PRODUCT"
+                    ],
+                    [
+                        37,
+                        43,
+                        "PRODUCT"
+                    ],
+                    [
+                        54,
+                        80,
+                        "PRODUCT"
+                    ],
+                    [
+                        85,
+                        90,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",
+            {
+                "entities": [
+                    [
+                        8,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        36,
+                        41,
+                        "PRODUCT"
+                    ],
+                    [
+                        70,
+                        76,
+                        "PRODUCT"
+                    ],
+                    [
+                        81,
+                        91,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "you can watch them preparing the delicious food!)",
+            {
+                "entities": [
+                    [
+                        33,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "If it were possible to give them zero stars, they'd have it.",
+            {
+                "entities": [
+                    [
+                        33,
+                        43,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",
+            {
+                "entities": [
+                    [
+                        49,
+                        50,
+                        "CARDINAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It's a great place and I highly recommend it.",
+            {
+                "entities": [
+                    [
+                        7,
+                        18,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",
+            {
+                "entities": [
+                    [
+                        7,
+                        21,
+                        "PERSON"
+                    ],
+                    [
+                        114,
+                        119,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Not much seafood and like 5 strings of pasta at the bottom.",
+            {
+                "entities": [
+                    [
+                        9,
+                        16,
+                        "PRODUCT"
+                    ],
+                    [
+                        26,
+                        35,
+                        "QUANTITY"
+                    ],
+                    [
+                        39,
+                        44,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "So flavorful and has just the perfect amount of heat.",
+            {
+                "entities": [
+                    [
+                        3,
+                        12,
+                        "PRODUCT"
+                    ],
+                    [
+                        30,
+                        44,
+                        "QUANTITY"
+                    ]
+                ]
+            }
+        ],
+        [
+            "But then they came back cold.",
+            {
+                "entities": [
+                    [
+                        24,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Last night was my second time dining here and I was so happy I decided to go back!",
+            {
+                "entities": [
+                    [
+                        18,
+                        29,
+                        "TIME"
+                    ],
+                    [
+                        52,
+                        60,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Service was fine and the waitress was friendly.",
+            {
+                "entities": [
+                    [
+                        12,
+                        16,
+                        "PERSON"
+                    ],
+                    [
+                        38,
+                        46,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "Waited 2 hours & never got either of our pizzas as many other around us who came in later did!",
+            {
+                "entities": [
+                    [
+                        7,
+                        14,
+                        "TIME"
+                    ],
+                    [
+                        41,
+                        47,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great place to relax and have an awesome burger and beer.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "PRODUCT"
+                    ],
+                    [
+                        15,
+                        20,
+                        "NORP"
+                    ],
+                    [
+                        33,
+                        40,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        47,
+                        "PRODUCT"
+                    ],
+                    [
+                        52,
+                        56,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.",
+            {
+                "entities": [
+                    [
+                        55,
+                        63,
+                        "PRODUCT"
+                    ],
+                    [
+                        111,
+                        125,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Much better than the other AYCE sushi place I went to in Vegas.",
+            {
+                "entities": [
+                    [
+                        27,
+                        43,
+                        "PRODUCT"
+                    ],
+                    [
+                        57,
+                        62,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I got food poisoning here at the buffet.",
+            {
+                "entities": [
+                    [
+                        6,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "This one is simply a disappointment.",
+            {
+                "entities": [
+                    [
+                        21,
+                        35,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The building itself seems pretty neat, the bathroom is pretty trippy, but I wouldn't eat here again.",
+            {
+                "entities": [
+                    [
+                        26,
+                        37,
+                        "PRODUCT"
+                    ],
+                    [
+                        55,
+                        68,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cute, quaint, simple, honest.",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "PRODUCT"
+                    ],
+                    [
+                        6,
+                        12,
+                        "PRODUCT"
+                    ],
+                    [
+                        14,
+                        20,
+                        "PRODUCT"
+                    ],
+                    [
+                        22,
+                        28,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Great atmosphere, friendly and fast service.",
+            {
+                "entities": [
+                    [
+                        0,
+                        16,
+                        "PRODUCT"
+                    ],
+                    [
+                        18,
+                        26,
+                        "PERSON"
+                    ],
+                    [
+                        31,
+                        43,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Soggy and not good.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "PRODUCT"
+                    ],
+                    [
+                        10,
+                        18,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Plus, it's only 8 bucks.",
+            {
+                "entities": [
+                    [
+                        16,
+                        23,
+                        "MONEY"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "I can say that the desserts were yummy.",
+            {
+                "entities": [
+                    [
+                        19,
+                        27,
+                        "PRODUCT"
+                    ],
+                    [
+                        33,
+                        38,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "The staff are great, the ambiance is great.",
+            {
+                "entities": [
+                    [
+                        14,
+                        19,
+                        "PERSON"
+                    ],
+                    [
+                        37,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Very convenient, since we were staying at the MGM!",
+            {
+                "entities": [
+                    [
+                        5,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        46,
+                        49,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mediocre food.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Best tacos in town by far!!",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "PRODUCT"
+                    ],
+                    [
+                        5,
+                        10,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"the food is not tasty at all, not to say its \"\"real traditional Hunan style\"\".\"",
+            {
+                "entities": [
+                    [
+                        13,
+                        22,
+                        "PRODUCT"
+                    ],
+                    [
+                        53,
+                        78,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "He also came back to check on us regularly, excellent service.",
+            {
+                "entities": [
+                    [
+                        44,
+                        61,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Everything was gross.",
+            {
+                "entities": [
+                    [
+                        15,
+                        20,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The chips that came out were dripping with grease, and mostly not edible.",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "PRODUCT"
+                    ],
+                    [
+                        29,
+                        49,
+                        "PRODUCT"
+                    ],
+                    [
+                        62,
+                        72,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",
+            {
+                "entities": [
+                    [
+                        7,
+                        28,
+                        "PRODUCT"
+                    ],
+                    [
+                        87,
+                        92,
+                        "LOC"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "My ribeye steak was cooked perfectly and had great mesquite flavor.",
+            {
+                "entities": [
+                    [
+                        3,
+                        19,
+                        "PRODUCT"
+                    ],
+                    [
+                        20,
+                        36,
+                        "PRODUCT"
+                    ],
+                    [
+                        45,
+                        66,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The service was extremely slow.",
+            {
+                "entities": [
+                    [
+                        16,
+                        30,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.",
+            {
+                "entities": [
+                    [
+                        38,
+                        53,
+                        "LOC"
+                    ],
+                    [
+                        91,
+                        95,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "I probably won't be back, to be honest.",
+            {
+                "entities": [
+                    [
+                        32,
+                        38,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Food was below average.",
+            {
+                "entities": [
+                    [
+                        9,
+                        22,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Interesting decor.",
+            {
+                "entities": [
+                    [
+                        0,
+                        17,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Anyway, this FS restaurant has a wonderful breakfast/lunch.",
+            {
+                "entities": [
+                    [
+                        13,
+                        26,
+                        "PRODUCT"
+                    ],
+                    [
+                        33,
+                        42,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Left very frustrated.",
+            {
+                "entities": [
+                    [
+                        5,
+                        20,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Couldn't ask for a more satisfying meal.",
+            {
+                "entities": [
+                    [
+                        19,
+                        34,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "They also have the best cheese crisp in town.",
+            {
+                "entities": [
+                    [
+                        19,
+                        23,
+                        "PRODUCT"
+                    ],
+                    [
+                        24,
+                        36,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "But now I was completely grossed out.",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "the spaghetti is nothing special whatsoever.",
+            {
+                "entities": [
+                    [
+                        4,
+                        13,
+                        "PRODUCT"
+                    ],
+                    [
+                        17,
+                        32,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The poor batter to meat ratio made the chicken tenders very unsatisfying.",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "PRODUCT"
+                    ],
+                    [
+                        9,
+                        15,
+                        "PRODUCT"
+                    ],
+                    [
+                        19,
+                        23,
+                        "PRODUCT"
+                    ],
+                    [
+                        39,
+                        54,
+                        "PRODUCT"
+                    ],
+                    [
+                        60,
+                        72,
+                        "NORP"
+                    ]
+                ]
+            }
+        ],
+        [
+            "To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",
+            {
+                "entities": [
+                    [
+                        29,
+                        39,
+                        "PRODUCT"
+                    ],
+                    [
+                        41,
+                        44,
+                        "PRODUCT"
+                    ],
+                    [
+                        46,
+                        58,
+                        "PRODUCT"
+                    ],
+                    [
+                        84,
+                        87,
+                        "NORP"
+                    ],
+                    [
+                        117,
+                        126,
+                        "PRODUCT"
+                    ],
+                    [
+                        127,
+                        136,
+                        "PRODUCT"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
